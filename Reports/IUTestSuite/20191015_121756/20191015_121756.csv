@@ -1,0 +1,129 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+IUTestSuite,Chrome 77.0.3865.90,,2019-10-15 12:17:57,2019-10-15 12:19:50,1m - 52.575s,PASSED
+,,,,,,
+Test Cases/InvestmentOpportunities,Chrome 77.0.3865.90,,2019-10-15 12:17:57,2019-10-15 12:18:30,32.819s,PASSED
+"openBrowser(""https://www.katalon.com/"")",Chrome 77.0.3865.90,,2019-10-15 12:17:57,2019-10-15 12:18:02,4.294s,PASSED
+driver = getWebDriver(),Chrome 77.0.3865.90,,2019-10-15 12:18:02,2019-10-15 12:18:02,0.006s,PASSED
+"baseUrl = ""https://www.katalon.com/""",Chrome 77.0.3865.90,,2019-10-15 12:18:02,2019-10-15 12:18:02,0.000s,PASSED
+"selenium = new com.thoughtworks.selenium.webdriven.WebDriverBackedSelenium(driver, baseUrl)",Chrome 77.0.3865.90,,2019-10-15 12:18:02,2019-10-15 12:18:02,0.058s,PASSED
+"selenium.open(""https://investmentu.com/"")",Chrome 77.0.3865.90,,2019-10-15 12:18:02,2019-10-15 12:18:04,2.232s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61895']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:18:04,2019-10-15 12:18:05,1.406s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[1]/div[1]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:18:05,2019-10-15 12:18:06,0.900s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61895']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:18:06,2019-10-15 12:18:07,1.132s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[1]/div[2]/div/a[2]/h6"")",Chrome 77.0.3865.90,,2019-10-15 12:18:07,2019-10-15 12:18:08,0.823s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61895']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:18:08,2019-10-15 12:18:09,1.059s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[1]/div[3]/div/a[2]/h6"")",Chrome 77.0.3865.90,,2019-10-15 12:18:09,2019-10-15 12:18:10,0.798s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61895']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:18:10,2019-10-15 12:18:11,1.107s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[1]/div[4]/div/a[2]/h6"")",Chrome 77.0.3865.90,,2019-10-15 12:18:11,2019-10-15 12:18:12,1.001s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61895']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:18:12,2019-10-15 12:18:13,1.033s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[1]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:18:13,2019-10-15 12:18:14,0.892s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61895']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:18:14,2019-10-15 12:18:15,1.027s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[2]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:18:15,2019-10-15 12:18:15,0.098s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61895']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:18:15,2019-10-15 12:18:16,1.016s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[3]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:18:16,2019-10-15 12:18:17,0.819s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61895']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:18:17,2019-10-15 12:18:18,1.035s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[4]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:18:18,2019-10-15 12:18:19,0.871s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61895']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:18:19,2019-10-15 12:18:20,0.989s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[5]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:18:20,2019-10-15 12:18:21,0.847s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61895']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:18:21,2019-10-15 12:18:22,1.074s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[6]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:18:22,2019-10-15 12:18:23,0.703s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61895']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:18:23,2019-10-15 12:18:24,1.131s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[7]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:18:24,2019-10-15 12:18:25,0.906s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61895']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:18:25,2019-10-15 12:18:26,1.240s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[8]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:18:26,2019-10-15 12:18:27,0.803s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61895']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:18:27,2019-10-15 12:18:28,1.174s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/a"")",Chrome 77.0.3865.90,,2019-10-15 12:18:28,2019-10-15 12:18:29,0.923s,PASSED
+"selenium.click(""id=logo"")",Chrome 77.0.3865.90,,2019-10-15 12:18:29,2019-10-15 12:18:30,1.029s,PASSED
+selenium.close(),Chrome 77.0.3865.90,,2019-10-15 12:18:30,2019-10-15 12:18:30,0.152s,PASSED
+,,,,,,
+Test Cases/FinancialFreedom,Chrome 77.0.3865.90,,2019-10-15 12:18:30,2019-10-15 12:18:45,15.156s,PASSED
+"openBrowser(""https://www.katalon.com/"")",Chrome 77.0.3865.90,,2019-10-15 12:18:30,2019-10-15 12:18:32,2.018s,PASSED
+driver = getWebDriver(),Chrome 77.0.3865.90,,2019-10-15 12:18:32,2019-10-15 12:18:32,0.000s,PASSED
+"baseUrl = ""https://www.katalon.com/""",Chrome 77.0.3865.90,,2019-10-15 12:18:32,2019-10-15 12:18:32,0.000s,PASSED
+"selenium = new com.thoughtworks.selenium.webdriven.WebDriverBackedSelenium(driver, baseUrl)",Chrome 77.0.3865.90,,2019-10-15 12:18:32,2019-10-15 12:18:32,0.011s,PASSED
+"selenium.open(""https://investmentu.com/"")",Chrome 77.0.3865.90,,2019-10-15 12:18:32,2019-10-15 12:18:35,2.504s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61894']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:18:35,2019-10-15 12:18:36,1.117s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[5]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:18:36,2019-10-15 12:18:36,0.772s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61894']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:18:36,2019-10-15 12:18:37,1.000s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[6]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:18:37,2019-10-15 12:18:38,0.792s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61894']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:18:38,2019-10-15 12:18:39,1.066s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[7]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:18:39,2019-10-15 12:18:40,0.785s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61894']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:18:40,2019-10-15 12:18:41,1.084s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[8]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:18:41,2019-10-15 12:18:42,0.793s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61894']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:18:42,2019-10-15 12:18:43,1.046s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/a"")",Chrome 77.0.3865.90,,2019-10-15 12:18:43,2019-10-15 12:18:44,0.812s,PASSED
+"selenium.click(""id=logo"")",Chrome 77.0.3865.90,,2019-10-15 12:18:44,2019-10-15 12:18:45,1.054s,PASSED
+selenium.close(),Chrome 77.0.3865.90,,2019-10-15 12:18:45,2019-10-15 12:18:45,0.168s,PASSED
+,,,,,,
+Test Cases/DividendStocks,Chrome 77.0.3865.90,,2019-10-15 12:18:45,2019-10-15 12:19:02,17.366s,PASSED
+"openBrowser(""https://www.katalon.com/"")",Chrome 77.0.3865.90,,2019-10-15 12:18:45,2019-10-15 12:18:47,2.115s,PASSED
+driver = getWebDriver(),Chrome 77.0.3865.90,,2019-10-15 12:18:47,2019-10-15 12:18:47,0.000s,PASSED
+"baseUrl = ""https://www.katalon.com/""",Chrome 77.0.3865.90,,2019-10-15 12:18:47,2019-10-15 12:18:47,0.000s,PASSED
+"selenium = new com.thoughtworks.selenium.webdriven.WebDriverBackedSelenium(driver, baseUrl)",Chrome 77.0.3865.90,,2019-10-15 12:18:47,2019-10-15 12:18:47,0.016s,PASSED
+"selenium.open(""https://investmentu.com/"")",Chrome 77.0.3865.90,,2019-10-15 12:18:47,2019-10-15 12:18:50,2.860s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61892']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:18:50,2019-10-15 12:18:51,1.271s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[5]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:18:51,2019-10-15 12:18:52,0.896s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61892']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:18:52,2019-10-15 12:18:54,1.145s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[6]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:18:54,2019-10-15 12:18:54,0.865s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61892']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:18:54,2019-10-15 12:18:55,1.066s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[7]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:18:55,2019-10-15 12:18:56,0.933s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61892']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:18:56,2019-10-15 12:18:58,1.396s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[8]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:18:58,2019-10-15 12:18:59,0.959s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61892']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:18:59,2019-10-15 12:19:00,1.009s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/a"")",Chrome 77.0.3865.90,,2019-10-15 12:19:00,2019-10-15 12:19:01,1.277s,PASSED
+"selenium.click(""id=logo"")",Chrome 77.0.3865.90,,2019-10-15 12:19:01,2019-10-15 12:19:02,1.271s,PASSED
+selenium.close(),Chrome 77.0.3865.90,,2019-10-15 12:19:02,2019-10-15 12:19:02,0.173s,PASSED
+,,,,,,
+Test Cases/WeedStocks,Chrome 77.0.3865.90,,2019-10-15 12:19:02,2019-10-15 12:19:19,16.981s,PASSED
+"openBrowser(""https://www.katalon.com/"")",Chrome 77.0.3865.90,,2019-10-15 12:19:03,2019-10-15 12:19:07,4.181s,PASSED
+driver = getWebDriver(),Chrome 77.0.3865.90,,2019-10-15 12:19:07,2019-10-15 12:19:07,0.001s,PASSED
+"baseUrl = ""https://www.katalon.com/""",Chrome 77.0.3865.90,,2019-10-15 12:19:07,2019-10-15 12:19:07,0.000s,PASSED
+"selenium = new com.thoughtworks.selenium.webdriven.WebDriverBackedSelenium(driver, baseUrl)",Chrome 77.0.3865.90,,2019-10-15 12:19:07,2019-10-15 12:19:07,0.011s,PASSED
+"selenium.open(""https://investmentu.com/"")",Chrome 77.0.3865.90,,2019-10-15 12:19:07,2019-10-15 12:19:09,2.210s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61893']"")",Chrome 77.0.3865.90,,2019-10-15 12:19:09,2019-10-15 12:19:10,1.242s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[5]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:19:10,2019-10-15 12:19:11,1.099s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61892']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:19:11,2019-10-15 12:19:12,1.049s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[6]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:19:12,2019-10-15 12:19:13,0.928s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61892']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:19:13,2019-10-15 12:19:14,0.979s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[7]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:19:14,2019-10-15 12:19:15,0.745s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61892']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:19:15,2019-10-15 12:19:16,0.879s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[8]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:19:16,2019-10-15 12:19:17,0.763s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61892']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:19:17,2019-10-15 12:19:18,0.925s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/a"")",Chrome 77.0.3865.90,,2019-10-15 12:19:18,2019-10-15 12:19:18,0.737s,PASSED
+"selenium.click(""id=logo"")",Chrome 77.0.3865.90,,2019-10-15 12:19:18,2019-10-15 12:19:19,0.992s,PASSED
+selenium.close(),Chrome 77.0.3865.90,,2019-10-15 12:19:19,2019-10-15 12:19:19,0.124s,PASSED
+,,,,,,
+Test Cases/TechStocks,Chrome 77.0.3865.90,,2019-10-15 12:19:19,2019-10-15 12:19:49,29.980s,PASSED
+"openBrowser(""https://www.katalon.com/"")",Chrome 77.0.3865.90,,2019-10-15 12:19:20,2019-10-15 12:19:22,2.228s,PASSED
+driver = getWebDriver(),Chrome 77.0.3865.90,,2019-10-15 12:19:22,2019-10-15 12:19:22,0.000s,PASSED
+"baseUrl = ""https://www.katalon.com/""",Chrome 77.0.3865.90,,2019-10-15 12:19:22,2019-10-15 12:19:22,0.001s,PASSED
+"selenium = new com.thoughtworks.selenium.webdriven.WebDriverBackedSelenium(driver, baseUrl)",Chrome 77.0.3865.90,,2019-10-15 12:19:22,2019-10-15 12:19:22,0.026s,PASSED
+"selenium.open(""https://investmentu.com/"")",Chrome 77.0.3865.90,,2019-10-15 12:19:22,2019-10-15 12:19:24,1.972s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61896']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:19:24,2019-10-15 12:19:25,1.263s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[1]/div[1]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:19:25,2019-10-15 12:19:26,0.793s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61896']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:19:26,2019-10-15 12:19:27,1.021s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[1]/div[2]/div/a[2]/h6"")",Chrome 77.0.3865.90,,2019-10-15 12:19:27,2019-10-15 12:19:28,0.833s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61896']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:19:28,2019-10-15 12:19:29,1.019s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[1]/div[3]/div/a[2]/h6"")",Chrome 77.0.3865.90,,2019-10-15 12:19:29,2019-10-15 12:19:30,0.857s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61896']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:19:30,2019-10-15 12:19:31,1.128s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[1]/div[4]/div/a[2]/h6"")",Chrome 77.0.3865.90,,2019-10-15 12:19:31,2019-10-15 12:19:32,0.797s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61896']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:19:32,2019-10-15 12:19:33,1.023s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[1]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:19:33,2019-10-15 12:19:33,0.935s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61896']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:19:33,2019-10-15 12:19:35,1.097s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[2]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:19:35,2019-10-15 12:19:35,0.112s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61896']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:19:35,2019-10-15 12:19:36,1.100s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[3]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:19:36,2019-10-15 12:19:38,1.764s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61896']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:19:38,2019-10-15 12:19:39,1.046s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[4]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:19:39,2019-10-15 12:19:39,0.820s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61896']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:19:39,2019-10-15 12:19:41,1.130s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[5]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:19:41,2019-10-15 12:19:41,0.858s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61896']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:19:41,2019-10-15 12:19:42,1.090s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[6]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:19:42,2019-10-15 12:19:43,0.841s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61896']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:19:43,2019-10-15 12:19:44,1.112s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[7]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:19:44,2019-10-15 12:19:45,0.093s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61896']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:19:45,2019-10-15 12:19:46,1.022s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[8]/div"")",Chrome 77.0.3865.90,,2019-10-15 12:19:46,2019-10-15 12:19:46,0.696s,PASSED
+"selenium.click(""xpath= //*[@id='menu-item-61896']/a"")",Chrome 77.0.3865.90,,2019-10-15 12:19:46,2019-10-15 12:19:47,1.147s,PASSED
+"selenium.click(""xpath= /html/body/main/div[1]/div/div[1]/a"")",Chrome 77.0.3865.90,,2019-10-15 12:19:47,2019-10-15 12:19:48,0.784s,PASSED
+"selenium.click(""id=logo"")",Chrome 77.0.3865.90,,2019-10-15 12:19:48,2019-10-15 12:19:49,1.120s,PASSED
+selenium.close(),Chrome 77.0.3865.90,,2019-10-15 12:19:49,2019-10-15 12:19:49,0.127s,PASSED

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="IUTestSuite" time="112" tests="5" failures="0" errors="0">
+   <testsuite name="IUTestSuite" tests="5" failures="0" errors="0" time="112" timestamp="2019-10-15 12:17:57" hostname="sthokala - 10.12.51.212" id="Test Suites/IUTestSuite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/sthokala/git/KatalonProfitTrends/Reports/IUTestSuite/20191015_121756"/>
+         <property name="logFiles" value="/Users/sthokala/git/KatalonProfitTrends/Reports/IUTestSuite/20191015_121756/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="sthokala - 10.12.51.212"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="6.1.1.1"/>
+         <property name="browser" value="Chrome 77.0.3865.90"/>
+         <property name="hostAddress" value="10.12.51.212"/>
+         <property name="sessionId" value="62aa76dffe1fa64a9c02d5e4cf1322f6"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/InvestmentOpportunities" classname="Test Cases/InvestmentOpportunities" status="PASSED">
+         <system-out><![CDATA[2019-10-15 12:17:57 - [TEST_CASE][PASSED] - Test Cases/InvestmentOpportunities: Test Cases/InvestmentOpportunities
+
+2019-10-15 12:17:57 - [TEST_STEP][PASSED] - openBrowser("https://www.katalon.com/"): Browser is opened with url: 'https://www.katalon.com/'
+
+2019-10-15 12:17:58 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-10-15 12:17:58 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2019-10-15 12:18:02 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.katalon.com/'
+
+2019-10-15 12:18:02 - [TEST_STEP][PASSED] - driver = getWebDriver(): null
+
+2019-10-15 12:18:02 - [TEST_STEP][PASSED] - baseUrl = "https://www.katalon.com/": null
+
+2019-10-15 12:18:02 - [TEST_STEP][PASSED] - selenium = new com.thoughtworks.selenium.webdriven.WebDriverBackedSelenium(driver, baseUrl): null
+
+2019-10-15 12:18:02 - [TEST_STEP][PASSED] - selenium.open("https://investmentu.com/"): null
+
+2019-10-15 12:18:04 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61895']/a"): null
+
+2019-10-15 12:18:05 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[1]/div[1]/div"): null
+
+2019-10-15 12:18:06 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61895']/a"): null
+
+2019-10-15 12:18:07 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[1]/div[2]/div/a[2]/h6"): null
+
+2019-10-15 12:18:08 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61895']/a"): null
+
+2019-10-15 12:18:09 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[1]/div[3]/div/a[2]/h6"): null
+
+2019-10-15 12:18:10 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61895']/a"): null
+
+2019-10-15 12:18:11 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[1]/div[4]/div/a[2]/h6"): null
+
+2019-10-15 12:18:12 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61895']/a"): null
+
+2019-10-15 12:18:13 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[1]/div"): null
+
+2019-10-15 12:18:14 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61895']/a"): null
+
+2019-10-15 12:18:15 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[2]/div"): null
+
+2019-10-15 12:18:15 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61895']/a"): null
+
+2019-10-15 12:18:16 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[3]/div"): null
+
+2019-10-15 12:18:17 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61895']/a"): null
+
+2019-10-15 12:18:18 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[4]/div"): null
+
+2019-10-15 12:18:19 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61895']/a"): null
+
+2019-10-15 12:18:20 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[5]/div"): null
+
+2019-10-15 12:18:21 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61895']/a"): null
+
+2019-10-15 12:18:22 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[6]/div"): null
+
+2019-10-15 12:18:23 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61895']/a"): null
+
+2019-10-15 12:18:24 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[7]/div"): null
+
+2019-10-15 12:18:25 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61895']/a"): null
+
+2019-10-15 12:18:26 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[8]/div"): null
+
+2019-10-15 12:18:27 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61895']/a"): null
+
+2019-10-15 12:18:28 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/a"): null
+
+2019-10-15 12:18:29 - [TEST_STEP][PASSED] - selenium.click("id=logo"): null
+
+2019-10-15 12:18:30 - [TEST_STEP][PASSED] - selenium.close(): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/FinancialFreedom" classname="Test Cases/FinancialFreedom" status="PASSED">
+         <system-out><![CDATA[2019-10-15 12:18:30 - [TEST_CASE][PASSED] - Test Cases/FinancialFreedom: Test Cases/FinancialFreedom
+
+2019-10-15 12:18:30 - [TEST_STEP][PASSED] - openBrowser("https://www.katalon.com/"): Browser is opened with url: 'https://www.katalon.com/'
+
+2019-10-15 12:18:30 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2019-10-15 12:18:30 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-10-15 12:18:32 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.katalon.com/'
+
+2019-10-15 12:18:32 - [TEST_STEP][PASSED] - driver = getWebDriver(): null
+
+2019-10-15 12:18:32 - [TEST_STEP][PASSED] - baseUrl = "https://www.katalon.com/": null
+
+2019-10-15 12:18:32 - [TEST_STEP][PASSED] - selenium = new com.thoughtworks.selenium.webdriven.WebDriverBackedSelenium(driver, baseUrl): null
+
+2019-10-15 12:18:32 - [TEST_STEP][PASSED] - selenium.open("https://investmentu.com/"): null
+
+2019-10-15 12:18:35 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61894']/a"): null
+
+2019-10-15 12:18:36 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[5]/div"): null
+
+2019-10-15 12:18:36 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61894']/a"): null
+
+2019-10-15 12:18:37 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[6]/div"): null
+
+2019-10-15 12:18:38 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61894']/a"): null
+
+2019-10-15 12:18:39 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[7]/div"): null
+
+2019-10-15 12:18:40 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61894']/a"): null
+
+2019-10-15 12:18:41 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[8]/div"): null
+
+2019-10-15 12:18:42 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61894']/a"): null
+
+2019-10-15 12:18:43 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/a"): null
+
+2019-10-15 12:18:44 - [TEST_STEP][PASSED] - selenium.click("id=logo"): null
+
+2019-10-15 12:18:45 - [TEST_STEP][PASSED] - selenium.close(): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DividendStocks" classname="Test Cases/DividendStocks" status="PASSED">
+         <system-out><![CDATA[2019-10-15 12:18:45 - [TEST_CASE][PASSED] - Test Cases/DividendStocks: Test Cases/DividendStocks
+
+2019-10-15 12:18:45 - [TEST_STEP][PASSED] - openBrowser("https://www.katalon.com/"): Browser is opened with url: 'https://www.katalon.com/'
+
+2019-10-15 12:18:45 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2019-10-15 12:18:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-10-15 12:18:47 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.katalon.com/'
+
+2019-10-15 12:18:47 - [TEST_STEP][PASSED] - driver = getWebDriver(): null
+
+2019-10-15 12:18:47 - [TEST_STEP][PASSED] - baseUrl = "https://www.katalon.com/": null
+
+2019-10-15 12:18:47 - [TEST_STEP][PASSED] - selenium = new com.thoughtworks.selenium.webdriven.WebDriverBackedSelenium(driver, baseUrl): null
+
+2019-10-15 12:18:47 - [TEST_STEP][PASSED] - selenium.open("https://investmentu.com/"): null
+
+2019-10-15 12:18:50 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61892']/a"): null
+
+2019-10-15 12:18:51 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[5]/div"): null
+
+2019-10-15 12:18:52 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61892']/a"): null
+
+2019-10-15 12:18:54 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[6]/div"): null
+
+2019-10-15 12:18:54 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61892']/a"): null
+
+2019-10-15 12:18:55 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[7]/div"): null
+
+2019-10-15 12:18:56 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61892']/a"): null
+
+2019-10-15 12:18:58 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[8]/div"): null
+
+2019-10-15 12:18:59 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61892']/a"): null
+
+2019-10-15 12:19:00 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/a"): null
+
+2019-10-15 12:19:01 - [TEST_STEP][PASSED] - selenium.click("id=logo"): null
+
+2019-10-15 12:19:02 - [TEST_STEP][PASSED] - selenium.close(): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WeedStocks" classname="Test Cases/WeedStocks" status="PASSED">
+         <system-out><![CDATA[2019-10-15 12:19:02 - [TEST_CASE][PASSED] - Test Cases/WeedStocks: Test Cases/WeedStocks
+
+2019-10-15 12:19:03 - [TEST_STEP][PASSED] - openBrowser("https://www.katalon.com/"): Browser is opened with url: 'https://www.katalon.com/'
+
+2019-10-15 12:19:03 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2019-10-15 12:19:03 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-10-15 12:19:07 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.katalon.com/'
+
+2019-10-15 12:19:07 - [TEST_STEP][PASSED] - driver = getWebDriver(): null
+
+2019-10-15 12:19:07 - [TEST_STEP][PASSED] - baseUrl = "https://www.katalon.com/": null
+
+2019-10-15 12:19:07 - [TEST_STEP][PASSED] - selenium = new com.thoughtworks.selenium.webdriven.WebDriverBackedSelenium(driver, baseUrl): null
+
+2019-10-15 12:19:07 - [TEST_STEP][PASSED] - selenium.open("https://investmentu.com/"): null
+
+2019-10-15 12:19:09 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61893']"): null
+
+2019-10-15 12:19:10 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[5]/div"): null
+
+2019-10-15 12:19:11 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61892']/a"): null
+
+2019-10-15 12:19:12 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[6]/div"): null
+
+2019-10-15 12:19:13 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61892']/a"): null
+
+2019-10-15 12:19:14 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[7]/div"): null
+
+2019-10-15 12:19:15 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61892']/a"): null
+
+2019-10-15 12:19:16 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[8]/div"): null
+
+2019-10-15 12:19:17 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61892']/a"): null
+
+2019-10-15 12:19:18 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/a"): null
+
+2019-10-15 12:19:18 - [TEST_STEP][PASSED] - selenium.click("id=logo"): null
+
+2019-10-15 12:19:19 - [TEST_STEP][PASSED] - selenium.close(): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TechStocks" classname="Test Cases/TechStocks" status="PASSED">
+         <system-out><![CDATA[2019-10-15 12:19:19 - [TEST_CASE][PASSED] - Test Cases/TechStocks: Test Cases/TechStocks
+
+2019-10-15 12:19:20 - [TEST_STEP][PASSED] - openBrowser("https://www.katalon.com/"): Browser is opened with url: 'https://www.katalon.com/'
+
+2019-10-15 12:19:20 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2019-10-15 12:19:20 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-10-15 12:19:22 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.katalon.com/'
+
+2019-10-15 12:19:22 - [TEST_STEP][PASSED] - driver = getWebDriver(): null
+
+2019-10-15 12:19:22 - [TEST_STEP][PASSED] - baseUrl = "https://www.katalon.com/": null
+
+2019-10-15 12:19:22 - [TEST_STEP][PASSED] - selenium = new com.thoughtworks.selenium.webdriven.WebDriverBackedSelenium(driver, baseUrl): null
+
+2019-10-15 12:19:22 - [TEST_STEP][PASSED] - selenium.open("https://investmentu.com/"): null
+
+2019-10-15 12:19:24 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61896']/a"): null
+
+2019-10-15 12:19:25 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[1]/div[1]/div"): null
+
+2019-10-15 12:19:26 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61896']/a"): null
+
+2019-10-15 12:19:27 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[1]/div[2]/div/a[2]/h6"): null
+
+2019-10-15 12:19:28 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61896']/a"): null
+
+2019-10-15 12:19:29 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[1]/div[3]/div/a[2]/h6"): null
+
+2019-10-15 12:19:30 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61896']/a"): null
+
+2019-10-15 12:19:31 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[1]/div[4]/div/a[2]/h6"): null
+
+2019-10-15 12:19:32 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61896']/a"): null
+
+2019-10-15 12:19:33 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[1]/div"): null
+
+2019-10-15 12:19:33 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61896']/a"): null
+
+2019-10-15 12:19:35 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[2]/div"): null
+
+2019-10-15 12:19:35 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61896']/a"): null
+
+2019-10-15 12:19:36 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[3]/div"): null
+
+2019-10-15 12:19:38 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61896']/a"): null
+
+2019-10-15 12:19:39 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[4]/div"): null
+
+2019-10-15 12:19:39 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61896']/a"): null
+
+2019-10-15 12:19:41 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[5]/div"): null
+
+2019-10-15 12:19:41 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61896']/a"): null
+
+2019-10-15 12:19:42 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[6]/div"): null
+
+2019-10-15 12:19:43 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61896']/a"): null
+
+2019-10-15 12:19:44 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[7]/div"): null
+
+2019-10-15 12:19:45 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61896']/a"): null
+
+2019-10-15 12:19:46 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/div[2]/div[8]/div"): null
+
+2019-10-15 12:19:46 - [TEST_STEP][PASSED] - selenium.click("xpath= //*[@id='menu-item-61896']/a"): null
+
+2019-10-15 12:19:47 - [TEST_STEP][PASSED] - selenium.click("xpath= /html/body/main/div[1]/div/div[1]/a"): null
+
+2019-10-15 12:19:48 - [TEST_STEP][PASSED] - selenium.click("id=logo"): null
+
+2019-10-15 12:19:49 - [TEST_STEP][PASSED] - selenium.close(): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-10-15 12:17:57 - [TEST_SUITE][PASSED] - IUTestSuite: Test Cases/TechStocks]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
